@@ -8,15 +8,6 @@ dsf
 dsf
 dsjkfk
 dsfkl
-sdfnds
-fsdnf
-ksadnklsf
-dfsn;sdf
-dsf
-dfnsd
-fdsnf
-dsfnds
-fdsf
 kdsf
 dsf
 dsf
