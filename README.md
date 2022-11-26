@@ -1,21 +1,6 @@
-# TSTestC
-klsnd
-dsnf;
-sdfnsd
-fdsf
-dsf
-dsf
-dsf
-dsjkfk
-dsfkl
-kdsf
-dsf
-dsf
-dsf
-dsf
-
-1
-2
-3
-4
-r5
+#
+const test;
+const test2;
+const test3;
+const test4;
+const test5;
